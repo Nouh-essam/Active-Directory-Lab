@@ -35,7 +35,7 @@ This project demonstrates building a small enterprise environment using Windows 
 ![Active-Directory-Users-and-Computers.png](Active-Directory-Users-and-Computers.png)
 
 ### Domain Join
-![Domain Join](domain-join.png)
+![domain-join.png](domain-join.png)
 
 ### Shared Folder
 ![Shared Folder](shared-folder.png)
