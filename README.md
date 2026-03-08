@@ -28,3 +28,14 @@ This project demonstrates building a small enterprise environment using Windows 
 - User and Group Management
 - DNS Configuration
 - File Sharing and Permissions
+- 
+## Screenshots
+
+### Active Directory Users
+![AD Users](ad-users.png)
+
+### Domain Join
+![Domain Join](domain-join.png)
+
+### Shared Folder
+![Shared Folder](shared-folder.png)
