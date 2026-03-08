@@ -38,4 +38,4 @@ This project demonstrates building a small enterprise environment using Windows 
 ![domain-join.png](domain-join.png)
 
 ### Shared Folder
-![Shared Folder](shared-folder.png)
+![shared-folder.png](shared-folder.png)
