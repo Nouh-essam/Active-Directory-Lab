@@ -32,7 +32,7 @@ This project demonstrates building a small enterprise environment using Windows 
 ## Screenshots
 
 ### Active Directory Users
-![AD Users](ad-users.png)
+![AD Users](Active Directory users and computers.png)
 
 ### Domain Join
 ![Domain Join](domain-join.png)
